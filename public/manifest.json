@@ -1,0 +1,22 @@
+{
+    "name": "Premier League Scoreboard",
+    "short_name": "EPL",
+    "description": "EPL",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#5d9634",
+    "theme_color": "#5d9634",
+    "gcm_sender_id": "937313850733",
+    "icons": [
+        {
+            "src": "/assets/interface/soccer-ball.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+         {
+            "src": "/assets/interface/soccer-ball.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
